@@ -1,0 +1,17 @@
+{
+	"credit": "Made by betaklerik with Blockbench",
+	"parent": "ib:item/shield/golden",
+	"gui_light": "front",
+	"display": {
+		"firstperson_righthand": {
+			"rotation": [90, -180, 60],
+			"translation": [9, -3, 0],
+			"scale": [2, 2, 2]
+		},
+		"firstperson_lefthand": {
+			"rotation": [90, 0, -60],
+			"translation": [9, -3, 0],
+			"scale": [2, 2, 2]
+		}
+	}
+}

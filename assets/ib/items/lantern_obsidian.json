@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "ib:item/item_frame/tombstone/lantern/lantern_obsidian"
+  }
+}

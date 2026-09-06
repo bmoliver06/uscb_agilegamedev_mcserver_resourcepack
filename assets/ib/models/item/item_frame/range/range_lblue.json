@@ -1,0 +1,6 @@
+{
+	"parent": "ib:item/_sources/item_frame/range",
+	"textures": {
+		"texture": "ib:item/item_frame/range/range_lblue"
+	}
+}

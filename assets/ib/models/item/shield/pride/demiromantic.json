@@ -1,0 +1,6 @@
+{
+	"parent": "ib:item/_sources/32xshield",
+	"textures": {
+		"texture": "ib:item/shield/pride/demiromantic"
+	}
+}

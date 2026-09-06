@@ -1,0 +1,10 @@
+{
+  "layers": {
+    "wings": [
+      {
+        "texture": "ib:vex",
+        "use_player_texture": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "dyeable": {
+          "color_when_undyed": -6265536
+        },
+        "texture": "ib:chestplate/water_wings_float"
+      },
+      {
+        "texture": "ib:chestplate/water_wings"
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "model": {
+    "type": "minecraft:condition",
+    "on_false": {
+      "type": "minecraft:model",
+      "model": "ib:item/equipment/elytra/bat_orange"
+    },
+    "on_true": {
+      "type": "minecraft:model",
+      "model": "ib:item/equipment/elytra/bat_orange_broken"
+    },
+    "property": "minecraft:broken"
+  }
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "fluffy_carpets:block/wool",
+	"textures": {
+		"texture": "minecraft:block/black_wool"
+	}
+}

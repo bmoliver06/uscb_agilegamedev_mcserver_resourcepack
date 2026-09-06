@@ -1,0 +1,14 @@
+{
+  "model": {
+    "type": "minecraft:condition",
+    "on_false": {
+      "type": "minecraft:model",
+      "model": "ib:item/shield/stem_crimson"
+    },
+    "on_true": {
+      "type": "minecraft:model",
+      "model": "ib:item/shield/stem_crimson_blocking"
+    },
+    "property": "minecraft:using_item"
+  }
+}

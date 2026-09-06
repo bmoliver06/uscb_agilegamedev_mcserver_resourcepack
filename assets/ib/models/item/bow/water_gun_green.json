@@ -1,0 +1,17 @@
+{
+  "parent": "ib:item/_sources/32xbow",
+  "textures": {
+    "texture": "ib:item/bow/water_gun_green_0"},
+	"display": {
+        "firstperson_righthand": {
+            "rotation": [ 0, -90, 25 ],
+            "translation": [ 1.13, 0, 1.13],
+			"scale": [1.36, 1.36, 0.68]
+		},
+		"firstperson_lefthand": {
+            "rotation": [ 0, 90, -25 ],
+            "translation": [ 1.13, 0, 1.13],
+			"scale": [1.36, 1.36, 0.68]
+		}
+	}
+}

@@ -1,0 +1,10 @@
+{
+  "layers": {
+    "wings": [
+      {
+        "texture": "ib:_sources/transparent",
+        "use_player_texture": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "parent": "ib:item/_sources/32xbow",
+  "textures": {
+    "texture": "ib:item/bow/candy_cannon_2"},
+	"display": {
+		"thirdperson_righthand": {
+            "rotation": [ -80, 260, -40 ],
+            "translation": [ -1, 5, 7.5 ],
+			"scale": [1.7, 1.7, 0.85]
+		},
+		"thirdperson_lefthand": {
+            "rotation": [ -80, -280, 40 ],
+            "translation": [ -1, 5, 7.5 ],
+			"scale": [1.7, 1.7, 0.85]
+		}
+	}
+}

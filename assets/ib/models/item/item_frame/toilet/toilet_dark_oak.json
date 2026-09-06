@@ -1,0 +1,6 @@
+{
+	"parent": "ib:item/_sources/item_frame/toilet",
+	"textures": {
+		"texture": "ib:item/item_frame/toilet/toilet_dark_oak"
+	}
+}

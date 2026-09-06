@@ -1,0 +1,6 @@
+{
+	"parent": "ib:item/_sources/item_frame/nightstand",
+	"textures": {
+		"texture": "ib:item/item_frame/nightstand/nightstand_crimson"
+	}
+}

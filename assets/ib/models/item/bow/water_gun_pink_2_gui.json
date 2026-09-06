@@ -1,0 +1,6 @@
+{
+  "parent": "ib:item/_sources/16xbow",
+  "textures": {
+    "texture": "ib:item/bow/water_gun_pink_2_gui"
+	}
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "ib:item/_sources/16xtile",
+  "textures": {
+    "texture": "ib:item/item_frame/portal/blue"
+  }
+}

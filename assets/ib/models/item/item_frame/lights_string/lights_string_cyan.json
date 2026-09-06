@@ -1,0 +1,6 @@
+{
+  "parent": "ib:item/_sources/item_frame/lights_string",
+  "textures": {
+    "texture": "ib:item/item_frame/lights_string/lights_string_cyan"
+  }
+}

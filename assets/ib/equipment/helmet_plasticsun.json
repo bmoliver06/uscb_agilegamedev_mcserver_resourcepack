@@ -1,0 +1,15 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "dyeable": {
+          "color_when_undyed": -6265536
+        },
+        "texture": "ib:helmet/plastic_sunglasses_rim"
+      },
+      {
+        "texture": "ib:helmet/plastic_sunglasses"
+      }
+    ]
+  }
+}

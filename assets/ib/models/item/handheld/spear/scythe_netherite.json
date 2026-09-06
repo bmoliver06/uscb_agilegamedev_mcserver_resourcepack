@@ -1,0 +1,6 @@
+{
+  "parent": "ib:item/_sources/32xhandheld",
+  "textures": {
+    "texture": "ib:item/handheld/scythe_netherite"
+  }
+}

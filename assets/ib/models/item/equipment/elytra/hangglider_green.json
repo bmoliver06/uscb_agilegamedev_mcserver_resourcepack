@@ -1,0 +1,6 @@
+{
+  "parent": "ib:item/_sources/16xitem",
+  "textures": {
+    "texture": "ib:item/equipment/elytra/hangglider_green"
+  }
+}

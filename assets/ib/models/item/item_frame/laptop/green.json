@@ -1,0 +1,6 @@
+{
+	"parent": "ib:item/_sources/item_frame/laptop",
+	"textures": {
+		"texture": "ib:item/item_frame/laptop/green"
+	}
+}

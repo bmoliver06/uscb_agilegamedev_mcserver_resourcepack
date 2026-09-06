@@ -1,0 +1,7 @@
+{
+  "parent": "ib:item/_sources/16xitem",
+  "textures": {
+    "texture": "ib:item/equipment/helmet/plastic_sunglasses_rim",
+	"overlay": "ib:item/equipment/helmet/plastic_sunglasses"
+  }
+}

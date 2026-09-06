@@ -1,0 +1,6 @@
+{
+	"parent": "ib:item/_sources/item_frame/tombstone_large",
+	"textures": {
+		"texture": "ib:item/item_frame/tombstone/tombstone_large_stone"
+	}
+}

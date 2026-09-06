@@ -1,0 +1,14 @@
+{
+  "model": {
+    "type": "minecraft:condition",
+    "on_false": {
+      "type": "minecraft:model",
+      "model": "ib:item/shield/pride/androgynous"
+    },
+    "on_true": {
+      "type": "minecraft:model",
+      "model": "ib:item/shield/pride/androgynous_blocking"
+    },
+    "property": "minecraft:using_item"
+  }
+}

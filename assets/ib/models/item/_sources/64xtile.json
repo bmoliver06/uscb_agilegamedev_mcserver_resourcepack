@@ -1,0 +1,12 @@
+{
+	"credit": "Modified default generated json file",
+	"parent": "ib:item/_sources/16xtile",
+	"gui_light": "front",
+	"display": {
+		"fixed": {
+			"rotation": [ 0, 180, 0 ],
+			"translation": [ 0, 0, -1],
+			"scale": [ 4, 4, 2 ]
+		}
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "ib:item/_sources/16xhandheld",
+	"textures": {
+		"texture": "ib:item/handheld/racket_red"
+	}
+}

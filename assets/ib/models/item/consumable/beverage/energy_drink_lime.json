@@ -1,0 +1,7 @@
+{
+  "parent": "ib:item/_sources/16xitem",
+  "textures": {
+    "texture": "ib:item/consumable/beverage/energy_drink_lime",
+	"particle": "ib:item/_sources/transparent"
+  }
+}

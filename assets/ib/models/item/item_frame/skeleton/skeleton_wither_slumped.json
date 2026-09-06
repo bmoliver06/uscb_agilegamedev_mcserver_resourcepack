@@ -1,0 +1,6 @@
+{
+	"parent": "ib:item/_sources/item_frame/skeleton_slumped",
+	"textures": {
+		"texture": "ib:item/item_frame/skeleton/skeleton_wither_slumped"
+	}
+}

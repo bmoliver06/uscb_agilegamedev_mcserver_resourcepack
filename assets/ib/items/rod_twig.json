@@ -1,0 +1,14 @@
+{
+  "model": {
+    "type": "minecraft:condition",
+    "on_false": {
+      "type": "minecraft:model",
+      "model": "ib:item/handheld/rod/twig"
+    },
+    "on_true": {
+      "type": "minecraft:model",
+      "model": "ib:item/handheld/rod/twig_cast"
+    },
+    "property": "minecraft:fishing_rod/cast"
+  }
+}

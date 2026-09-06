@@ -1,0 +1,6 @@
+{
+	"parent": "ib:item/_sources/item_frame/lantern_paper",
+	"textures": {
+		"texture": "ib:item/item_frame/lanternp/lime"
+	}
+}

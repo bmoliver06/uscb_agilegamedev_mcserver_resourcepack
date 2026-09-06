@@ -1,0 +1,15 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "dyeable": {
+          "color_when_undyed": -6265536
+        },
+        "texture": "ib:helmet/fedora_band"
+      },
+      {
+        "texture": "ib:helmet/fedora"
+      }
+    ]
+  }
+}

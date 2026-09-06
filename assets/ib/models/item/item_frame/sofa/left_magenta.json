@@ -1,0 +1,6 @@
+{
+	"parent": "ib:item/_sources/item_frame/sofa_left",
+	"textures": {
+		"texture": "ib:item/item_frame/sofa/magenta"
+	}
+}

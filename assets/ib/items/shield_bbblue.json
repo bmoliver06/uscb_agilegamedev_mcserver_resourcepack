@@ -1,0 +1,14 @@
+{
+  "model": {
+    "type": "minecraft:condition",
+    "on_false": {
+      "type": "minecraft:model",
+      "model": "ib:item/shield/bodyboard_blue"
+    },
+    "on_true": {
+      "type": "minecraft:model",
+      "model": "ib:item/shield/bodyboard_blue_blocking"
+    },
+    "property": "minecraft:using_item"
+  }
+}

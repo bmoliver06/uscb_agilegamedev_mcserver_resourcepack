@@ -1,0 +1,22 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "cases": [
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "ib:item/handheld/scythe_copper_gui"
+        },
+        "when": [
+          "gui"
+        ]
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "ib:item/handheld/scythe_copper"
+    },
+    "property": "minecraft:display_context"
+  },
+  "swap_animation_scale": 1.95
+}

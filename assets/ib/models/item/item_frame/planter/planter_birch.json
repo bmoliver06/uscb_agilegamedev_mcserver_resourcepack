@@ -1,0 +1,6 @@
+{
+	"parent": "ib:item/_sources/item_frame/planter",
+	"textures": {
+		"texture": "ib:item/item_frame/planter/planter_birch"
+	}
+}

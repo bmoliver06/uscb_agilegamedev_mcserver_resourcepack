@@ -1,0 +1,10 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "ib:item/equipment/helmet/plastic_sunglasses",
+    "tints": [ {
+		"type": "minecraft:dye",
+		"default": -6265536
+    } ]
+  }
+}

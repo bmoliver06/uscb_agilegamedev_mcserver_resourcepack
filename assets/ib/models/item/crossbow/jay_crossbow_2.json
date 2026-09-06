@@ -1,0 +1,6 @@
+{
+  "parent": "ib:item/_sources/16xcrossbow",
+  "textures": {
+    "texture": "ib:item/crossbow/jay_crossbow_2"
+	}
+}

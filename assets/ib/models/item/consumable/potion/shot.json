@@ -1,0 +1,8 @@
+{
+  "parent": "ib:item/_sources/16xitem",
+  "textures": {
+    "texture": "ib:item/consumable/potion/shot_drink",
+    "overlay": "ib:item/consumable/potion/shot_glass",
+	"particle": "ib:item/_sources/transparent"
+  }
+}

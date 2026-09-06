@@ -1,0 +1,15 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "dyeable": {
+          "color_when_undyed": -6265536
+        },
+        "texture": "ib:set/scarecrow_hatshirt"
+      },
+      {
+        "texture": "ib:set/scarecrow"
+      }
+    ]
+  }
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "ib:item/_sources/blockshieldblocking",
+	"textures": {
+		"texture": "ib:item/shield/log_acacia"
+	}
+}

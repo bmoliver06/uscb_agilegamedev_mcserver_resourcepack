@@ -1,0 +1,14 @@
+{
+  "model": {
+    "type": "minecraft:condition",
+    "on_false": {
+      "type": "minecraft:model",
+      "model": "ib:item/equipment/elytra/pride/gay_mlm"
+    },
+    "on_true": {
+      "type": "minecraft:model",
+      "model": "ib:item/equipment/elytra/pride/gay_mlm_broken"
+    },
+    "property": "minecraft:broken"
+  }
+}

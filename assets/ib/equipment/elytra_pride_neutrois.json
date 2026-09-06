@@ -1,0 +1,10 @@
+{
+  "layers": {
+    "wings": [
+      {
+        "texture": "ib:pride/neutrois",
+        "use_player_texture": false
+      }
+    ]
+  }
+}

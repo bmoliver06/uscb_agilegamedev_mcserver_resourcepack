@@ -1,0 +1,6 @@
+{
+	"parent": "ib:item/_sources/item_frame/mirror",
+	"textures": {
+		"texture": "ib:item/item_frame/mirror/mirror_spruce"
+	}
+}

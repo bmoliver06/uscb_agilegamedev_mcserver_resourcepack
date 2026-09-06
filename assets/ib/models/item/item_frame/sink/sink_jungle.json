@@ -1,0 +1,6 @@
+{
+	"parent": "ib:item/_sources/item_frame/sink",
+	"textures": {
+		"texture": "ib:item/item_frame/sink/sink_jungle"
+	}
+}

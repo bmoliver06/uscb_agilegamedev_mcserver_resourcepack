@@ -1,0 +1,7 @@
+{
+  "parent": "ib:item/_sources/16xitem",
+  "textures": {
+    "texture": "ib:item/equipment/helmet/flower_crown_flowers",
+	"overlay": "ib:item/equipment/helmet/flower_crown"
+  }
+}

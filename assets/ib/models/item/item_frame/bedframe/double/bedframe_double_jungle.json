@@ -1,0 +1,7 @@
+{
+	"parent": "ib:item/_sources/item_frame/bedframe_double",
+	"textures": {
+		"texture": "ib:item/item_frame/bedframe/bedframe_jungle",
+		"particle": "ib:item/item_frame/bedframe/bedframe_jungle"
+	}
+}

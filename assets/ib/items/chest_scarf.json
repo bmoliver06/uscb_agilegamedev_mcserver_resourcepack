@@ -1,0 +1,10 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "ib:item/equipment/chestplate/scarf",
+    "tints": [ {
+		"type": "minecraft:dye",
+		"default": -6265536
+    } ]
+  }
+}

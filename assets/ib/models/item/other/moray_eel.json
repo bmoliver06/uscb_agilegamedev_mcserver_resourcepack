@@ -1,0 +1,6 @@
+{
+  "parent": "ib:item/_sources/32xitem",
+  "textures": {
+    "texture": "ib:item/other/moray_eel"
+  }
+}

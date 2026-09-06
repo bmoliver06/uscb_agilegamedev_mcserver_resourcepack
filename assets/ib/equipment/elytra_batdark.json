@@ -1,0 +1,10 @@
+{
+  "layers": {
+    "wings": [
+      {
+        "texture": "ib:bat_dark",
+        "use_player_texture": false
+      }
+    ]
+  }
+}

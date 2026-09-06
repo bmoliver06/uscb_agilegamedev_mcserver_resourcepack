@@ -1,0 +1,22 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "cases": [
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "ib:item/handheld/katana_iron_gui"
+        },
+        "when": [
+          "gui"
+        ]
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "ib:item/handheld/katana_iron"
+    },
+    "property": "minecraft:display_context"
+  },
+  "swap_animation_scale": 1.95
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "ib:item/_sources/64xtile",
+	"textures": {
+		"texture": "ib:item/item_frame/wall_decor/painting_arcadia"
+	}
+}

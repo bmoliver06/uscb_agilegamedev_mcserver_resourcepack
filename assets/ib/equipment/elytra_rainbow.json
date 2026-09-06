@@ -1,0 +1,10 @@
+{
+  "layers": {
+    "wings": [
+      {
+        "texture": "ib:rainbow",
+        "use_player_texture": false
+      }
+    ]
+  }
+}

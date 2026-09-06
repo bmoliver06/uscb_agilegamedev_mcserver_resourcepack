@@ -1,0 +1,6 @@
+{
+	"parent": "ib:item/_sources/item_frame/desk",
+	"textures": {
+		"texture": "ib:item/item_frame/desk/desk_bamboo"
+	}
+}

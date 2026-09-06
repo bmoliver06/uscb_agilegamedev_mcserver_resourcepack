@@ -1,0 +1,6 @@
+{
+	"parent": "ib:item/_sources/item_frame/lamp_tall",
+	"textures": {
+		"texture": "ib:item/item_frame/lamp/tall/yellow"
+	}
+}

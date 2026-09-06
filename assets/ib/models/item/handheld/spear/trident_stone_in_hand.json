@@ -1,0 +1,6 @@
+{
+  "parent": "ib:item/_sources/32xspearinhand",
+  "textures": {
+    "texture": "ib:item/handheld/spear/trident_stone_in_hand"
+  }
+}

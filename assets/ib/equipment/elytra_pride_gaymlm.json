@@ -1,0 +1,10 @@
+{
+  "layers": {
+    "wings": [
+      {
+        "texture": "ib:pride/gay_mlm",
+        "use_player_texture": false
+      }
+    ]
+  }
+}
